@@ -9,3 +9,7 @@ Important: T2-weighted images must be preprocessed before inference:
 - Registration into MNI space (1mm³ isotropic resolution)
 - Brain extraction
 
+
+The model can be downloaded here: https://drive.google.com/file/d/1UxjOAXsWwSCaOeFk9kJ_t8VXXnIRufrR/view?usp=sharing
+
+Implementation and usage instructions can be found here: https://github.com/MIC-DKFZ/nnUNet
